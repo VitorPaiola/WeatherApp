@@ -6,6 +6,8 @@ Este projeto é um aplicativo de previsão do tempo moderno e elegante, desenvol
 
 ## 🖥️ Demonstração Visual
 
+> **Acesse a demonstração ao vivo aqui:** [https://dynamic-sky.netlify.app/](https://dynamic-sky.netlify.app/)
+
 ![Previsão do Tempo - Demonstração](images/home.png)
 Visão do site, pagina inicial.
 
